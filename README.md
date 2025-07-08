@@ -19,9 +19,12 @@ Desafío Inesperado: En una etapa crítica del desarrollo, el equipo se redujo d
 Estrategias de Colaboración y Organización bajo Kanban:
 
 Visualización del Flujo de Trabajo: Aunque no usamos herramientas complejas, conceptualizamos un tablero Kanban simple (mental o en un documento básico). Esto nos permitió tener una visión clara de las tareas en cada estado: Por Hacer, En Progreso y Hecho.
-Limitación del Trabajo en Curso (WIP): Dada la reducción del equipo, fue crucial enfocarnos en completar una tarea antes de iniciar la siguiente. Esto minimizó el cambio de contexto y aseguró que las funcionalidades clave avanzaran hasta su finalización sin dispersión.
+Limitación del Trabajo en Curso: Dada la reducción del equipo, fue crucial enfocarnos en completar una tarea antes de iniciar la siguiente. Esto minimizó el cambio de contexto y aseguró que las funcionalidades clave avanzaran hasta su finalización sin dispersión.
 Priorización Extrema: Cada tarea se priorizó rigurosamente para asegurar que las funcionalidades esenciales (bienvenida, gestión de actividades, cronómetro básico, visualización de consejos) fueran operativas y robustas. La funcionalidad y la robustez del código fueron la máxima prioridad, dejando el pulido estético para un escenario con más tiempo.
 Modularización del Código: La arquitectura modular del código (dividiendo en main_app.py, módulos de ventanas en windows/ y utilidades en utils/) se alineó perfectamente con Kanban. Cada módulo o funcionalidad podía ser tratado como una 'tarjeta' independiente que avanzaba por el flujo de trabajo.
 Comunicación Directa y Confianza: La comunicación fue constante y directa. La confianza mutua fue clave para delegar tareas críticas y asegurar que las 'tarjetas' avanzaran, incluso cuando un miembro asumía una carga mayor para mantener el flujo.
 Enfoque en el Flujo Continuo: El objetivo era mantener las tareas moviéndose de izquierda a derecha en nuestro tablero conceptual. Si una tarea se atascaba, se le daba prioridad para desbloquearla y mantener el flujo continuo hacia la entrega.
 Esta adaptación de Kanban nos permitió no solo entregar un proyecto funcional en un tiempo récord con recursos limitados, sino también desarrollar habilidades cruciales de gestión de proyectos, resiliencia, priorización y trabajo en equipo en un escenario real y desafiante.
+
+5.Ejecutar la Aplicación:
+El archivo principal de ejecución es main_app.py
